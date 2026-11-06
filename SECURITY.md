@@ -4,9 +4,10 @@
 
 Please report security problems privately. Do not open a public issue, comment or discussion with the details.
 
-- **Private contact:** coming soon. The Modrinth page will carry the private reporting address when it is live.
-- Until that channel exists, open a report on the Modrinth page asking for a private contact and keep the technical
-  details out of the public text.
+- **Private contact:** use the repository's **Report a vulnerability** button, on the Security tab:
+  https://github.com/sjgamer92og-spec/PotatoPerf/security/advisories/new
+- A private advisory stays visible only to you and the maintainer. Do not open a public issue with the technical
+  details.
 
 Please include:
 

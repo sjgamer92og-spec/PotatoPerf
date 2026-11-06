@@ -7,7 +7,10 @@ public, so there is no pull-request workflow and patches cannot be reviewed or m
 
 ## Bugs and ideas
 
-Bug reports and feature ideas are welcome on the Modrinth page (coming soon). Please:
+Bug reports and feature ideas are welcome as GitHub issues on the repository:
+https://github.com/sjgamer92og-spec/PotatoPerf/issues
+
+Please:
 
 - open one report per problem, with a clear title;
 - say which PotatoPerf version and which Minecraft version from the supported versions table you use;
